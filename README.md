@@ -23,6 +23,7 @@ The app is able to take in the customers request and fulfill his/her request. Th
 
 The app is also able to give the customer precise feedback if their request is not valid.  Meaning, if a customer chooses an item and request more than the online store has in stock, the app will let the customer know that the quantity is insufficient, apologize and ask the customer to return later so that the store can fulfill their order and send the customer back to start their purchase process over.
 
+![screen shot 2019-03-02 at 8 11 28 pm](https://user-images.githubusercontent.com/45025352/53691636-d2326080-3d47-11e9-9d9e-f773bc268612.png)
 
 
 
