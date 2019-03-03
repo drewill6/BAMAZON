@@ -30,7 +30,7 @@ The app is also able to give the customer precise feedback if their request is n
 One of the features that I like most about the app, is how it will update the database whenever the quantity of an item is completely sold in one customer purchase.  I was very excited to be able to include this into the application and watch it successfully work.
 
 
-
+![screen shot 2019-03-02 at 9 17 49 pm](https://user-images.githubusercontent.com/45025352/53691656-276e7200-3d48-11e9-96f4-6cdbe28f7ac2.png)
 
 
 The database showed the customer choosing ID 2 and a quantity of 30, which completely dissolved the stores inventory of ID 2.
