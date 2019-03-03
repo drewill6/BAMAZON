@@ -17,6 +17,8 @@ The consumer will be able to access the app just by going to the terminal and ty
 The app is able to take in the customers request and fulfill his/her request. The app will thank the customer and let them know that their order is in stock.  The app will give the customer a final cost of his/her order and thank them for their purchase.
 
 
+![screen shot 2019-03-02 at 8 09 44 pm](https://user-images.githubusercontent.com/45025352/53691622-56d0af00-3d47-11e9-9b96-0fce2dcd82df.png)
+
 
 
 The app is also able to give the customer precise feedback if their request is not valid.  Meaning, if a customer chooses an item and request more than the online store has in stock, the app will let the customer know that the quantity is insufficient, apologize and ask the customer to return later so that the store can fulfill their order and send the customer back to start their purchase process over.
