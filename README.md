@@ -40,4 +40,4 @@ The database showed the customer choosing ID 2 and a quantity of 30, which compl
 
 Database was successfully updated!
 
-
+![screen shot 2019-03-02 at 9 35 16 pm](https://user-images.githubusercontent.com/45025352/53691683-b24f6c80-3d48-11e9-8687-f5355541c6ff.png
