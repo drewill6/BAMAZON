@@ -35,6 +35,7 @@ One of the features that I like most about the app, is how it will update the da
 
 The database showed the customer choosing ID 2 and a quantity of 30, which completely dissolved the stores inventory of ID 2.
 
+![screen shot 2019-03-02 at 9 34 56 pm](https://user-images.githubusercontent.com/45025352/53691674-70bec180-3d48-11e9-8310-5fb26d7118a0.png)
 
 
 Database was successfully updated!
